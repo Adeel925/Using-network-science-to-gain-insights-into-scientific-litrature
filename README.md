@@ -25,8 +25,8 @@ The work includes:
    - comparison of top words in different communities
 
 #### 10) Quantitative evaluation different metrics
-    - Cosine similarity inter communities
-    - Cosine similarity of documents intra communities
+- Cosine similarity inter communities
+- Cosine similarity of documents intra communities
    
 
 
